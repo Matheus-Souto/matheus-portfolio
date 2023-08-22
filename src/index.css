@@ -3,8 +3,10 @@
 @tailwind utilities;
 
 @import '~typeface-poppins';
+@import '~typeface-mulish';
 
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #F9F9F9;
 }
+

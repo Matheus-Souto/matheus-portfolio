@@ -2,7 +2,7 @@ import { BsLinkedin, BsGithub } from 'react-icons/bs';
 
 export const Hero = () => {
     return(
-        <section className="flex py-44 container max-w-[1000px] mx-auto items-center">
+        <section className="flex pt-44 pb-14 container max-w-[1000px] mx-auto items-center">
             <div className="max-w-lg relative">
                 <h1 className="font-bold text-5xl text-slate-800 leading-snug">Front-End React Developer</h1>
                 <img className="h-14 absolute top-[65px] left-[250px]" src="/waving.png" alt="" />

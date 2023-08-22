@@ -9,3 +9,9 @@
     position: relative;
     transition: all 1s ease-in-out;
 }
+
+.skills {
+    font-family: 'Mulish', sans-serif !important;
+    color: #2d2e32;
+    border-right: 2px solid rgba(45,46,50,.5);
+}
